@@ -1,2 +1,2 @@
 # hello-world
-simple hello world repo
+first steps towards own repo.
